@@ -2,6 +2,7 @@
 // SystemEngineering hw1
 // calculate fibonacci sequence to 1000
 // author:sikako Chen
+// with gnu multiple precision library
 // ----------------------------------------------------------------------------------
 
 #include <stdio.h>
